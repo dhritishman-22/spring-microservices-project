@@ -18,3 +18,4 @@
 
 ## Application Architecture
 
+<img width="1358" alt="image" src="https://github.com/user-attachments/assets/594c9a17-9d09-4f9b-98af-ad181f86adee" />
